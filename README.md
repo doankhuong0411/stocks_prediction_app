@@ -68,5 +68,7 @@ pip install datetime
 ```bash
 streamlit run app.py
 ```
+<img src="[https://example.com/image.png](https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png)" alt="Project Image" width="200">
+
 ![Giao diện](https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png)
 
