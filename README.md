@@ -68,5 +68,5 @@ pip install datetime
 ```bash
 streamlit run app.py
 ```
-![Giao diện](đường_dẫn_đến_ảnh)
+![Giao diện](https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png)
 
