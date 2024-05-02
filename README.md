@@ -64,3 +64,9 @@ pip install seaborn
 pip install datetime 
 ```
 
+## start project
+```bash
+streamlit run app.py
+```
+
+
