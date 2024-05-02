@@ -70,7 +70,9 @@ streamlit run app.py
 ```
 ### giao diện
 <img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png" alt="Project Image" width="700">
-### Load data
 <img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/load_data.png" width="700">
-
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/analysis.png" width="700">
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/properties.png" width="700">
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/training_result.png" width="700">
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/pred_for_next_day.png" width="700">
 
