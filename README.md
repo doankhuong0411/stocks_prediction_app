@@ -69,7 +69,8 @@ pip install datetime
 streamlit run app.py
 ```
 ### giao diện
-<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png" alt="Project Image" width="500">
-
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/interface.png" alt="Project Image" width="700">
+### Load data
+<img src="https://github.com/doankhuong0411/stocks_prediction_app/blob/main/image/load_data.png" width="700">
 
 
